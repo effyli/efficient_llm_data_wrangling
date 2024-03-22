@@ -1,0 +1,4 @@
+.DS_Store
+fast_ai_wrangler/.DS_Store
+fast_ai_wrangler/__pycache__/*
+fast_ai_wrangler/utils/__pycache__/*
