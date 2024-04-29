@@ -1,6 +1,6 @@
 # efficient_llm_data_wrangling
 
-This github repo contains code for our submission: Towards Efficient Data Wrangling with LLMs using Code
+This github repo contains code for our SIGMOD DEEM'24 paper: Towards Efficient Data Wrangling with LLMs using Code
 Generation.
 
 Following work by [Narayan et al.](https://arxiv.org/abs/2205.09911), we use the same set of benchmark [datasets](https://github.com/HazyResearch/fm_data_tasks).
